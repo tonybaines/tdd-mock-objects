@@ -1,0 +1,7 @@
+.gradle/
+.settings/
+/nbproject/private/build.xml
+bin/
+build
+build.xml
+nbproject/
