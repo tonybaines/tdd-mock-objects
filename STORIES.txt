@@ -1,0 +1,5 @@
+As a bank I want transfers between accounts
+acceptance criteria
+   - the 'from' account will be debited by the transfer amount
+   - the 'to' account will be credited by the transfer amount
+   - only when there are sufficient funds in the 'from' account
